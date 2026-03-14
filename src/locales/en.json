@@ -1,9 +1,15 @@
 {
   "translation": {
     "welcome": "Welcome to Tasheel Legal SaaS",
-    "services": "Services",
-    "cases": "Cases",
+    "services": "Service Catalog",
+    "cases": "Active Cases",
     "invoices": "Invoices",
-    "toggleLanguage": "العربية"
+    "toggleLanguage": "العربية",
+    "dashboard": "Client Dashboard",
+    "bookService": "Book this Service",
+    "caseStatus": "Status",
+    "pending": "Pending",
+    "inProgress": "In Progress",
+    "completed": "Completed"
   }
 }

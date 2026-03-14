@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import { useTranslation } from 'react-i18next';
 import { formatCurrency } from './utils/formatCurrency';
+import ClientDashboard from './pages/ClientDashboard';
 
 function Home() {
   const { t } = useTranslation();
@@ -19,6 +20,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<Home />} />
+        <Route path="client/dashboard" element={<ClientDashboard />} />
       </Route>
     </Routes>
   );

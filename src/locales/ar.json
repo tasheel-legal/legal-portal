@@ -1,9 +1,15 @@
 {
     "translation": {
         "welcome": "مرحباً بكم في تسهيل للخدمات القانونية",
-        "services": "الخدمات",
-        "cases": "القضايا",
+        "services": "دليل الخدمات",
+        "cases": "القضايا النشطة",
         "invoices": "الفواتير",
-        "toggleLanguage": "English"
+        "toggleLanguage": "English",
+        "dashboard": "لوحة تحكم العميل",
+        "bookService": "حجز هذه الخدمة",
+        "caseStatus": "الحالة",
+        "pending": "قيد الانتظار",
+        "inProgress": "قيد التقدم",
+        "completed": "مكتمل"
     }
 }
