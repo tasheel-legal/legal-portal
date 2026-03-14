@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #1e3a8a; /* Custom dark blue */
+    --color-secondary: #0f172a; /* Custom darker shade */
+    --color-accent: #f59e0b; /* Custom amber */
+  }
+}
